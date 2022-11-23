@@ -1,10 +1,10 @@
 ---
-title: 'The Hidden Agenda Of Residenital'
-category: 'residenital'
+title: 'Sree Film World Wedding'
+category: 'Wedding Photography'
 date: '2022-01-12'
 image: hidden-agenda.jpg
 descriptionImg: '1.jpg'
-excerpt: Residenital
+excerpt: Wedding
 location: Calle Blancos, Costa Rica
 clientName: Alex Stinson
 completedDate: January 2022

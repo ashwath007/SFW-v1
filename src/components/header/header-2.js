@@ -115,12 +115,12 @@ function HeaderTwo() {
                         <div className="lg:col-span-3 col-span-6">
                             <div className={`outer-box ${headerCss}`}>
                                 <ul className="language-list">
-                                    <li>
+                                    {/* <li>
                                         <Link href="/">END</Link>
                                     </li>
                                     <li>
                                         <Link href="/">FRA</Link>
-                                    </li>
+                                    </li> */}
                                 </ul>
                                 <div className="offcanvas-area">
                                     <div className="offcanvas">

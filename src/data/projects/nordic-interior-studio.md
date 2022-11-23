@@ -1,10 +1,10 @@
 ---
-title: 'Nordic Interior Studio'
-category: 'residenital'
+title: 'Sree Film World Wedding'
+category: 'Wedding Photography'
 date: '2022-01-12'
 image: nordic.jpg
 descriptionImg: '1.jpg'
-excerpt: Copper Brass
+excerpt: Wedding
 location: Calle Blancos, Costa Rica
 clientName: Alex Stinson
 completedDate: January 2022

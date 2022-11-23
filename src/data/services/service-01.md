@@ -1,6 +1,5 @@
 ---
-title: 'Residential'
-icon: 'AiOutlineHome'
+title: 'Wedding Photography'
 ---
 
 We provide all materials, labor, equip ensure a safe and secure

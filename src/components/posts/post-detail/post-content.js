@@ -55,7 +55,7 @@ function PostContent({ post, categories, tags }) {
                             <p className="text-secondary leading-[27px] pt-[70px]">
                                 {post.postExcerpt}
                             </p>
-                            <ul className="post-share-tags pt-[65px]">
+                            {/* <ul className="post-share-tags pt-[65px]">
                                 {post.postTags.map((item) => (
                                     <li key={item}>
                                         <Link href="#">
@@ -63,7 +63,7 @@ function PostContent({ post, categories, tags }) {
                                         </Link>
                                     </li>
                                 ))}
-                            </ul>
+                            </ul> */}
                         </div>
                         <div className="lg:col-span-4 max-md:pt-[50px]">
                             <PostSidebar categories={categories} tags={tags} />

@@ -1,5 +1,5 @@
 ---
-title: 'Inspired From China In Web Design update'
+title: 'Best photography crew in coimbatore.'
 date: '2022-01-02'
 image: inspired.jpg
 descriptionImg: 'single-image.jpg'

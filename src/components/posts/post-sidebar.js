@@ -32,15 +32,15 @@ function PostSidebar({ categories, tags }) {
                     <li className="mb-[15px]">
                         <Link href="/posts/magazine">
                             <a className="hover:underline">
-                                Layout & White-Spacing In Design For Magazine
+                                Best Photography crew in coimbatore.
                             </a>
                         </Link>
                     </li>
                     <li className="mb-[15px]">
                         <Link href="/posts/sketch-pillow">
                             <a className="hover:underline">
-                                Look At The Sketch Pillow Unique By Scarlet
-                                Johanson
+                                Experience the best Drone Shots offered with the
+                                wedding package of Sree Film World
                             </a>
                         </Link>
                     </li>

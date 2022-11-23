@@ -1,10 +1,10 @@
 ---
-title: 'Brossia Heigh Luxury Apartment'
-category: 'residenital'
+title: 'Sree Film World Wedding'
+category: 'Wedding Photography'
 date: '2022-01-12'
 image: 'brossia.jpg'
 descriptionImg: '1.jpg'
-excerpt: 'Residenital'
+excerpt: 'Wedding'
 location: 'Calle Blancos, Costa Rica'
 clientName: 'Edna Smith'
 completedDate: 'January 2022'

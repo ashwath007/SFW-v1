@@ -1,10 +1,10 @@
 ---
-title: 'Sample Villa'
-category: 'commercial'
+title: 'Sree Film World Wedding'
+category: 'Wedding Photography'
 date: '2022-01-12'
 image: sample.jpg
 descriptionImg: '1.jpg'
-excerpt: Commercial
+excerpt: Wedding
 location: Calle Blancos, Costa Rica
 clientName: Alex Stinson
 completedDate: January 2022

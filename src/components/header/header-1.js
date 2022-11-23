@@ -46,7 +46,7 @@ function HeaderOne() {
                             </div>
                             <div className="lg:col-span-7 lg:block hidden">
                                 <nav>
-                                    <ul className="main-menu text-white">
+                                    <ul className="main-menu text-black">
                                         <li
                                             className={
                                                 router.pathname === '/'
@@ -118,12 +118,12 @@ function HeaderOne() {
                             <div className="lg:col-span-3 col-span-6">
                                 <div className={`outer-box ${headerCss}`}>
                                     <ul className="language-list text-white">
-                                        <li>
+                                        {/* <li>
                                             <Link href="/">END</Link>
                                         </li>
                                         <li>
                                             <Link href="/">FRA</Link>
-                                        </li>
+                                        </li> */}
                                     </ul>
                                     <div className="offcanvas-area">
                                         <div className="offcanvas">
@@ -133,6 +133,7 @@ function HeaderOne() {
                                                 aria-label="Right Align"
                                             >
                                                 <FaBars
+                                                    style={{ color: '#131313' }}
                                                     onClick={showOffcanvas}
                                                 />
                                             </button>
@@ -164,8 +165,8 @@ function HeaderOne() {
                                             <Image
                                                 src="/images/logo/logo-2.png"
                                                 alt="Logo"
-                                                width={70}
-                                                height={70}
+                                                width={129}
+                                                height={79}
                                             />
                                         </a>
                                     </Link>

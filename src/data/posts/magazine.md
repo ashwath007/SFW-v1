@@ -1,5 +1,5 @@
 ---
-title: 'Layout & White-Spacing In Design For Magazine'
+title: 'Best photography crew in coimbatore.'
 date: '2022-01-02'
 image: magazine.jpg
 descriptionImg: 'single-image.jpg'
