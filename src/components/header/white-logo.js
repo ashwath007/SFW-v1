@@ -8,8 +8,8 @@ function WhiteLogo() {
                 <Image
                     src="/images/logo/logo.png"
                     alt="Logo"
-                    width={70}
-                    height={70}
+                    width={129}
+                    height={79}
                 />
             </a>
         </Link>

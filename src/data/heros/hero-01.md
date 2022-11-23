@@ -1,12 +1,12 @@
 ---
 id: 'hero-01'
 title: Hero Image
-image: /images/hero/1.jpg
+image: /images/hero/sf2.jpg
 heroYear: 2022
 twitterIcon: 'FaTwitter'
 facebookIcon: 'FaFacebookF'
 googleIcon: 'FaGoogle'
-heroCategory: Rustic interior <br /> studio
-heroTitle: Rustic and <br /> Modern
+heroCategory: Photography
+heroTitle: Wedding Photography <br />
 heroContactInfo: contact@Rustictudio.co
 ---

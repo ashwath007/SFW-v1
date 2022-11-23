@@ -11,7 +11,7 @@ function ContactPage() {
                 <meta name="description" content="Send us your messages!" />
             </Head>
             <HeaderTwo />
-            <GoogleMap />
+            {/* <GoogleMap /> */}
             <ContactForm />
             <div>
                 

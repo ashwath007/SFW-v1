@@ -13,8 +13,8 @@ function Footer() {
                                 <Image
                                     src="/images/logo/footer-logo.png"
                                     alt="Logo"
-                                    width={70}
-                                    height={70}
+                                    width={129}
+                                    height={79}
                                 />
                             </div>
                         </div>
@@ -22,21 +22,18 @@ function Footer() {
                             <div className="footer-widget-item">
                                 <h2 className="title">Contact</h2>
                                 <ul className="contact-info mt-[25px]">
-                                    <li>
-                                        17 Princess Road, London, Greater
-                                        London, NW18JR, Uk
-                                    </li>
+                                    <li>Gandhipuram, Coimbatore, 641002</li>
                                     <li>
                                         <Link href="mailto:hello@Rusticstudio.co">
                                             <a className="hover:text-black transition-all">
-                                                hello@Rusticstudio.co
+                                                sfw@gmail.com
                                             </a>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="tel:+0084-912-3548-073">
                                             <a className="hover:text-black transition-all">
-                                                (+0084) 912-3548-073
+                                                9999999999
                                             </a>
                                         </Link>
                                     </li>
@@ -119,14 +116,17 @@ function Footer() {
                         <div className="md:grid md:grid-cols-12 flex flex-col">
                             <div className="md:col-span-4 max-lm:order-last max-lm:pt-[10px]">
                                 <div className="copyright flex-wrap md:justify-start justify-center md:mb-0 mb-[10px]">
-                                    © 2022 <span className="mx-1">RUSTIC</span>
+                                    © 2022{' '}
+                                    <span className="mx-1">
+                                        Sree Film World
+                                    </span>
                                     Made with © by
                                     <div className="text-[#f53400] mx-1">
                                         <AiIcons.AiFillHeart />
                                     </div>
                                     <Link href="https://themeforest.net/user/codecarnival/portfolio">
                                         <a target="_blank">
-                                            <span> CodeCarnival</span>
+                                            <span>theDot Tech</span>
                                         </a>
                                     </Link>
                                 </div>
@@ -162,7 +162,7 @@ function Footer() {
                             </div>
                             <div className="md:col-span-2">
                                 <ul className="footer-language flex md:justify-end justify-center">
-                                    <li className="mr-8">
+                                    {/* <li className="mr-8">
                                         <Link href="/about">
                                             <a className="text-[#30373E] text-[14px] leading-6 uppercase transition-all hover:text-[#263a4f]">
                                                 Eng
@@ -175,7 +175,7 @@ function Footer() {
                                                 Fre
                                             </a>
                                         </Link>
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                         </div>

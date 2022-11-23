@@ -38,12 +38,7 @@ function ProjectContent({ project }) {
                             </span>
                             {project?.clientName}
                         </li>
-                        <li>
-                            <span className="text-[#4D5660] mr-[5px]">
-                                Completed:
-                            </span>
-                            {project.completedDate}
-                        </li>
+
                         <li>
                             <span className="text-[#4D5660] mr-[5px]">
                                 Architect:

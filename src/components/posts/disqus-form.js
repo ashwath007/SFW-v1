@@ -13,10 +13,10 @@ function DisqusForm() {
             <div className="container">
                 <div className="md:grid md:grid-cols-12 md:gap-x-[90px]">
                     <div className="md:col-span-8">
-                        <DiscussionEmbed
+                        {/* <DiscussionEmbed
                             shortname={disqusShortname}
                             config={disqusConfig}
-                        />
+                        /> */}
                     </div>
                 </div>
             </div>

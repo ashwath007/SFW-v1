@@ -1,10 +1,10 @@
 ---
-title: 'Chobham Manor Masterplan'
-category: 'suitanable-space'
+title: 'Sree Film World Wedding'
+category: 'Wedding Photography'
 date: '2022-01-12'
 image: chobham.jpg
 descriptionImg: '1.jpg'
-excerpt: Suitantable Space
+excerpt: Wedding
 location: Calle Blancos, Costa Rica
 clientName: Alex Stinson
 completedDate: January 2022

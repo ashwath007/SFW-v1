@@ -23,7 +23,7 @@ function HomePage({
     return (
         <>
             <Head>
-                <title>Rustic - React Business Template</title>
+                <title>SFW</title>
                 <meta
                     name="description"
                     content="Rustic - React Business Template is an excellent solution to the web designing needs for your website related to creative agency, business, portfolio, corporate, etc. "
@@ -34,9 +34,9 @@ function HomePage({
             <Services services={services} />
             <LatestProject projects={projects} />
             <About />
-            <PricingTab pricingItems={pricingItems} />
-            <Testimonial testimonialItems={testimonialItems} />
-            <Brand brandItems={brandItems} />
+            {/* <PricingTab pricingItems={pricingItems} /> */}
+            {/* <Testimonial testimonialItems={testimonialItems} /> */}
+            {/* <Brand brandItems={brandItems} /> */}
             <FeaturedPost posts={posts} />
         </>
     );

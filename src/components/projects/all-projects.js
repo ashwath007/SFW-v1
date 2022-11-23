@@ -40,7 +40,7 @@ function AllProjects({ projects: initialProject }) {
                         onClick={onFilterHandler}
                         data-filter="residenital"
                     >
-                        Residenital
+                        Wedding
                     </button>
                     <button
                         className={`${
@@ -50,7 +50,7 @@ function AllProjects({ projects: initialProject }) {
                         onClick={onFilterHandler}
                         data-filter="commercial"
                     >
-                        Commercial
+                        Maternity
                     </button>
                     <button
                         className={`${
@@ -60,7 +60,7 @@ function AllProjects({ projects: initialProject }) {
                         onClick={onFilterHandler}
                         data-filter="suitanable-space"
                     >
-                        Suitantable Space
+                        New born baby
                     </button>
                 </div>
             </div>
