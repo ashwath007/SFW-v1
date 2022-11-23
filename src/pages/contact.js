@@ -13,6 +13,9 @@ function ContactPage() {
             <HeaderTwo />
             <GoogleMap />
             <ContactForm />
+            <div>
+                
+            </div>
         </>
     );
 }
